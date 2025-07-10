@@ -1,0 +1,39 @@
+body{
+    background-color: lightgray
+    
+    ;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+.navbar{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+.navbar a{
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+}
+.navbar a:hover{
+    background-color: #555;
+}
+.navbar li{
+    display: inline;
+    margin: 0 10px;
+    text-decoration: none;
+}
+.navbar h1{
+    margin: 0;
+    font-size: 24px;
+}
+.myworks{
+    text-align: center;
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
